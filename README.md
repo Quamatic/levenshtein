@@ -1,7 +1,7 @@
 # levenshtein
 
 Vladimir Levenshtein’s [edit distance algorithm][wiki] for Roblox.
-Ported from https://github.com/wooorm/levenshtein-rs, so credits to the author.
+Ported from https://github.com/wooorm/levenshtein-rs - credits go to them.
 
 ## Installation
 
